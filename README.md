@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi, I am Chien Chuan 👋
 
 <!--
 **chienchuanw/chienchuanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+
+- You can call me Chien or Chuan. I am fine either way.
+- I'm a **Concert Lighting Designer** and a **Full Stack Engineer**.
+- Do fun things and do things fun!
+
+## Get in Touch
+
+- [LinkedIn](https://www.linkedin.com/in/chienchuanw/)
+- [Instagram](https://www.instagram.com/chienchuanw/)
+- [Facebook](https://www.facebook.com/chienchuan.wang/)
+- [Email](mailto:chienchuanwww@gmail.com)
+- Discord: chienchuan_w
