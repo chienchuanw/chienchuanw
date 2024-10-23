@@ -1,5 +1,3 @@
-# Hi, I am Chien Chuan 👋
-
 <!--
 **chienchuanw/chienchuanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+## Hi, I am Chien Chuan
 
 - You can call me Chien or Chuan. I am fine either way.
 - I'm a **Concert Lighting Designer** and a **Full Stack Engineer**.
