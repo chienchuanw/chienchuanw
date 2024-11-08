@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 - [Instagram](https://www.instagram.com/chienchuanw/)
 - [Facebook](https://www.facebook.com/chienchuan.wang/)
 - [Email](mailto:chienchuanwww@gmail.com)
-- Discord: chienchuan_w
+- Discord: chienchuanw
