@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi, I am Chien Chuan
 
 - You can call me Chien or Chuan. I am fine either way.
-- I'm a **Concert Lighting Designer** and a **Full Stack Engineer**.
+- I'm a **[Concert Lighting Designer](https://www.instagram.com/chienchuanw)** and a **Full Stack Engineer**.
 - Do fun things and do things fun!
 
 ## Get in Touch
