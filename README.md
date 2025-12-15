@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 ## Get in Touch
 
 [LinkedIn](https://www.linkedin.com/in/chienchuanw/) / [Instagram](https://www.instagram.com/chienchuanw/) / [Facebook](https://www.facebook.com/chienchuan.wang/) / [Email](mailto:chienchuanwww@gmail.com)
+
 Discord: chienchuanw
