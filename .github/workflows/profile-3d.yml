@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule: # 01:00 TST == 17:00 UTC
+    - cron: "0 17 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,7 +14,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: chienchuanw/github-3d-commit-wall@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
