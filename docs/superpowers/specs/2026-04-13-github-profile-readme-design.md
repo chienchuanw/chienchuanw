@@ -110,3 +110,6 @@ Same links as current profile. Single line with slash separators. Discord on its
 - RSS feed URL at `https://www.chienchuanw.com/en/` -- confirm it serves valid RSS/Atom
 - shields.io badge colors and logo names for each technology
 - github-readme-stats theme rendering in dark mode
+
+### Things to remove from current README
+- The 3D contribution graph image (`profile-grayscale.svg` reference). The graph files and workflow remain in the repo for potential future use, but the README will no longer display them.
