@@ -13,14 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](./profile-3d-contrib/profile-gitblock.svg)
+
 ## Hi, I am Chien Chuan
 
-- You can call me Chien or Chuan. I am fine either way.
+- Call me Chuan.
 - I'm a **[Concert Lighting Designer](https://www.instagram.com/chienchuanw)** and a **Full Stack Engineer**.
 - Do fun things and do things fun!
 
 ## Get in Touch
 
-[LinkedIn](https://www.linkedin.com/in/chienchuanw/) / [Instagram](https://www.instagram.com/chienchuanw/) / [Facebook](https://www.facebook.com/chienchuan.wang/) / [Email](mailto:chienchuanwww@gmail.com)
+- [Blog](https://www.chienchuanw.com/en/) / [LinkedIn](https://www.linkedin.com/in/chienchuanw/) / [Instagram](https://www.instagram.com/chienchuanw/) / [Facebook](https://www.facebook.com/chienchuan.wang/) / [Email](mailto:chienchuanwww@gmail.com)
 
 Discord: chienchuanw
