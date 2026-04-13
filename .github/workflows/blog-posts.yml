@@ -1,0 +1,62 @@
+name: Update Blog Posts
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-blog-posts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Fetch blog posts from sitemap
+        run: |
+          # Extract English blog post URLs from sitemap
+          URLS=$(curl -s https://www.chienchuanw.com/sitemap.xml \
+            | grep -oP 'https://www\.chienchuanw\.com/en/blog/[^<]+')
+
+          # Build markdown list of posts with titles
+          POSTS=""
+          for url in $URLS; do
+            TITLE=$(curl -s "$url" \
+              | grep -oP '(?<=<title>)[^<]+' \
+              | head -1 \
+              | sed 's/ *|.*//;s/^ *//;s/ *$//')
+            if [ -n "$TITLE" ]; then
+              POSTS="${POSTS}- [${TITLE}](${url})\n"
+            fi
+          done
+
+          # Keep only the 5 most recent (sitemap order)
+          POSTS=$(echo -e "$POSTS" | head -5)
+
+          # Replace content between markers in README
+          awk -v posts="$POSTS" '
+            /<!-- BLOG-POST-LIST:START -->/ {
+              print
+              printf "%s\n", posts
+              skip=1
+              next
+            }
+            /<!-- BLOG-POST-LIST:END -->/ {
+              skip=0
+            }
+            !skip {print}
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "docs: update blog posts"
+            git push
+          fi
