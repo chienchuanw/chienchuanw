@@ -31,3 +31,15 @@ Call me Chuan.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+### Featured Projects
+
+**[gma2-mcp](https://github.com/chienchuanw/gma2-mcp)** -- Remote control grandMA2 lighting consoles via MCP. Python-based Telnet automation for lighting workflows.
+
+**[gma2-vscode-extension](https://github.com/chienchuanw/gma2-vscode-extension)** -- VS Code language support for grandMA2 command scripts. Syntax highlighting and hover docs.
+
+**[asset-manager](https://github.com/chienchuanw/asset-manager)** -- Personal finance platform with portfolio tracking, cash flow management, and FIFO cost calculations. Built with Go.
+
+**[vocab-hero](https://github.com/chienchuanw/vocab-hero)** -- Japanese vocabulary learning app with spaced repetition (SM-2), six study modes, and progress tracking. Next.js + Electron monorepo.
