@@ -43,3 +43,10 @@ Call me Chuan.
 **[asset-manager](https://github.com/chienchuanw/asset-manager)** -- Personal finance platform with portfolio tracking, cash flow management, and FIFO cost calculations. Built with Go.
 
 **[vocab-hero](https://github.com/chienchuanw/vocab-hero)** -- Japanese vocabulary learning app with spaced repetition (SM-2), six study modes, and progress tracking. Next.js + Electron monorepo.
+
+---
+
+### Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
