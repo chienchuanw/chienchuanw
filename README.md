@@ -1,28 +1,33 @@
-<!--
-**chienchuanw/chienchuanw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Chien Chuan Wang
 
-Here are some ideas to get you started:
+Concert Lighting Designer / Full Stack Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Call me Chuan.
 
-![](./profile-3d-contrib/profile-grayscale.svg)
+---
 
-## Hi, I am Chien Chuan
+### Tech Stack
 
-- Call me Chuan.
-- I'm a **[Concert Lighting Designer](https://www.instagram.com/chienchuanw)** and a **Full Stack Engineer**.
-- Do fun things and do things fun!
+**Languages**
 
-## Get in Touch
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
-- [Blog](https://www.chienchuanw.com/en/) / [LinkedIn](https://www.linkedin.com/in/chienchuanw/) / [Instagram](https://www.instagram.com/chienchuanw/) / [Facebook](https://www.facebook.com/chienchuan.wang/) / [Email](mailto:chienchuanwww@gmail.com)
+**Frameworks**
 
-Discord: chienchuanw
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=flat&logo=rubyonrails&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
