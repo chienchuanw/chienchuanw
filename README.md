@@ -2,6 +2,9 @@ Call me **Chuan**.
 
 _Full Stack Engineer / Concert Lighting Designer_
 
+I craft developer tools (MCP servers, CLI/desktop apps) to remove 
+real friction in the domains I work in — including live-event production.
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
